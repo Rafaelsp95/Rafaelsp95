@@ -4,7 +4,7 @@
 
 Estou em processo de **transição de carreira** para a área de **Desenvolvimento Web**, após mais de 9 anos de experiência como profissional da saúde em farmácia hospitalar. Desde abril de 2024 venho me dedicando intensamente ao estudo de programação na plataforma DevMedia.
 
-Minha vivência na área hospitalar fortaleceu soft skills importantes, como: 
+Minha vivência na área hospitalar fortaleceu **Soft Skills** importantes, como: 
 
 - **Resolução de problemas;**
 - **Atenção a detalhes;**
