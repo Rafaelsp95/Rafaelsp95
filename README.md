@@ -30,4 +30,4 @@ Next.js | React | TypeScript | JavaScript | HTML5 | CSS3 | CSS Modules | Git
 
 ## Contato
 
-LinkedIn: Rafaelricardo955@hotmail.com
+Email: Rafaelricardo955@hotmail.com
