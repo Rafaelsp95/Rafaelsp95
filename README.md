@@ -29,6 +29,4 @@ Depois de mais de 10 anos atuando na área da saúde, migrei para o desenvolvime
 
 ## Contato
 
-**LinkedIn:** [Rafael Borba](https://www.linkedin.com/in/rrcb-rafaelborba/ "LinkedIn Rafael Borba")
-
 **Email:** <rafaelricardo955@hotmail.com>
