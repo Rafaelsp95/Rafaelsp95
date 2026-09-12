@@ -9,6 +9,7 @@ Depois de mais de 10 anos atuando na área da saúde, migrei para o desenvolvime
 - Em formação em Desenvolvimento Web Fullstack, com estudos em HTML5, CSS3, JavaScript, React, lógica de programação e fundamentos de TI
 - Interesse em construir interfaces performáticas, acessíveis e com boa experiência de uso
 - Buscando oportunidade de estágio ou posição júnior na área de desenvolvimento web
+- Plataformas de estudos: [DevMedia](https://www.devmedia.com.br/) - [Impacta](https://www.impacta.edu.br/graduacao/)
 
 ## Stack e ferramentas
 
